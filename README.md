@@ -1,2 +1,2 @@
 # Python-mini---project
-Student management 
+Student management mini project
